@@ -1,0 +1,8 @@
+{
+    "ports": {
+        "ui": 7654,
+        "driver": 5555,
+        "static": 8080,
+        "arduino": "COM7"
+    }
+}
